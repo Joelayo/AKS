@@ -2,7 +2,7 @@
 title: "AKS - Past, Present and Future"
 description: "An exploration of the past, present, future for Azure Kubernetes Service (AKS)."
 date: 2024-05-21
-author: Jorge Palma
+author: Jorge Palm
 categories: general
 ---
 
